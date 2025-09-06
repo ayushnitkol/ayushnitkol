@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning MERN<br>💬 Ask me about React JS, Frontend development.<br>📫 How to reach me: farhan.y2k.me@gmail.com<br>⚡ Fun fact: I Love To Code And Play Cricket
+🌱 I’m currently learning MERN<br>💬 Ask me about React JS, Frontend development.<br>📫 How to reach me: ayush797905@gmail.com<br>⚡ Fun fact: I Love To Code And Play Cricket
 
 
 ## 🌐 Socials:
